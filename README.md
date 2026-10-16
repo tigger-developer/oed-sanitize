@@ -54,13 +54,13 @@ Supported formats:
 ## Installation
 
 ```bash
-brew install tigger04/tap/sanitize
+brew install tigger-developer/tap/sanitize
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/tigger04/oed-sanitize.git
+git clone https://github.com/tigger-developer/oed-sanitize.git
 cd oed-sanitize
 make install
 ```
